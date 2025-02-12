@@ -43,21 +43,21 @@ streamlit run app.py
 ```
 
 ## 🛠 Technologies Used
-	•	Streamlit – Interactive UI
-	•	Google Gemini API – AI-powered text analysis
-	•	PyMuPDF – PDF text extraction
+- Streamlit – Interactive UI
+- Google Gemini API – AI-powered text analysis
+- PyMuPDF – PDF text extraction
 
 ## 💡 Future Enhancements
-	•	✅ Support for DOCX files
-	•	✅ Add metadata extraction
-	•	✅ Implement vector search for large documents
+- ✅ Support for DOCX files
+- ✅ Add metadata extraction
+- ✅ Implement vector search for large documents
 
 
 ## 🙌 Contributing
-	1.	Fork the repository
-	2.	Create a new branch (feature-branch)
-	3.	Commit your changes
-	4.	Push to GitHub and open a Pull Request
+- Fork the repository
+- reate a new branch (feature-branch)
+- Commit your changes
+- Push to GitHub and open a Pull Request
 
 ### 👨‍💻 Author
 
