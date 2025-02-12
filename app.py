@@ -3,6 +3,7 @@ import google.generativeai as genai
 import fitz  # PyMuPDF for PDF processing
 
 # Configure Gemini API Key
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-pro")
 
